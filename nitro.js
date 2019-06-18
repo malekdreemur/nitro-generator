@@ -58,4 +58,4 @@ function spamla(){
 
 
 });
-client.login("BOT_TOKEN");
+client.login("TOKENİNİZ");
